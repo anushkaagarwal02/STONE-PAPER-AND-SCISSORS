@@ -2,9 +2,9 @@
 ##  STONE   PAPER   SCISSORS
 ## INTRODUCTION
  It is a hand game called Rock Paper Scissor, also known as Stone Paper Scissor, is played by two individuals while simultaneously forming one of three shapes.The winner is decided by the rules given below:
- Rock vs Paper -> Paper wins.
-Rock vs Scissor -> Rock wins.
-Paper vs Scissor -> Scissor wins.
+> Rock vs Paper -> Paper wins.
+> Rock vs Scissor -> Rock wins.
+> Paper vs Scissor -> Scissor wins.
 
 ## FEATURES
 > Contains Scoreboard
