@@ -11,8 +11,8 @@ Paper vs Scissor -> Scissor wins.
 The scoreboard shows the scores of each chance which while makes it easy to decide who won.
 > less complexity
 
-##How to use
+## How to use
 Download the .cpp file and run it on any compiler.
 
-##Description
+## Description
 I've seen a lot of Stone Paper Scissors programmes, but I wanted to attempt it with a different approach. So, in order to make it easier for the user to play and to easily determine the winner, I tried to utilise switch statements and create scoreboards.
